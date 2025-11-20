@@ -7,11 +7,11 @@ SocialNetworkApp
 <img width="404" height="827" alt="Image" src="https://github.com/user-attachments/assets/e2de6482-013a-4a09-b090-d72d94aec978" />
 
 Я использовала MVVM архитектуру - это значит, что код разделен на части:
-SocialNetworkApp/
-├── Models/               Модели данных
-├── ViewModels/           Логика приложения  
-├── Views/                Экраны и ячейки
-└── Managers/             Разные помощники
+SocialNetworkApp/                                                                           
+├── Models/               Модели данных                                                     
+├── ViewModels/           Логика приложения                                                 
+├── Views/                Экраны и ячейки                                                   
+└── Managers/             Разные помощники                                                  
 
  Как все работает:
 1. PostsViewController (экран) показывает таблицу с постами
